@@ -75,8 +75,8 @@ Besides using the buttons at the drone teleoperator GUI, taking off and landing 
 
 ### GUI
 
-* `GUI.showImage(cv2_image)` - Shows a image of the camera  in the GUI
-* `GUI.showLeftImage(cv2_image)` - Shows another image of the camera in the GUI
+* `WebGUI.showImage(cv2_image)` - Shows a image of the camera  in the GUI
+* `WebGUI.showLeftImage(cv2_image)` - Shows another image of the camera in the GUI
 
 <!--## Theory
 
